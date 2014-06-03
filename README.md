@@ -1,8 +1,10 @@
-# command line generator for PW CAPTAIN HOOK
+# Command line generator for ProcessWire's CaptainHook
+
+### original idea for CaptainHook by @somatonic
 
 clone:
 
-```$ git clone https://github.com/owzim/captain-hook```
+```$ git clone https://github.com/owzim/PWCaptainHookCLI```
 
 make executable:
 
