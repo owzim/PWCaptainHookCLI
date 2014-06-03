@@ -1,6 +1,6 @@
 # Command line generator for ProcessWire's CaptainHook
 
-### original idea for CaptainHook by @somatonic
+### original idea for CaptainHook by [@somatonic](https://github.com/somatonic) 
 
 clone:
 
